@@ -3,69 +3,102 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Productor de Seguros</title>
+    <title>Productor de Seguros - Estudio Brassini</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <div class="logo">
-            <img src="logo.png" alt="Logo Productor de Seguros">
-        </div>
-        <nav>
-            <ul>
-                <li><a href="#inicio">Inicio</a></li>
-                <li><a href="#planes">Planes</a></li>
-                <li><a href="#sobre-nosotros">Sobre Nosotros</a></li>
-                <li><a href="#contacto">Contacto</a></li>
-            </ul>
+        <nav class="navbar navbar-expand-lg navbar-light bg-white">
+            <a class="navbar-brand" href="#">
+                <img src="logo.png" alt="Logo Estudio Brassini" height="50">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#inicio">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#planes">Planes</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#sobre-nosotros">Sobre Nosotros</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contacto">Contacto</a>
+                    </li>
+                </ul>
+            </div>
         </nav>
     </header>
 
     <main>
-        <section class="hero">
+        <section class="hero text-center py-5">
             <h1>¿Qué tipo de cobertura necesitas?</h1>
-            <select id="plan-selector">
-                <option value="auto">Auto</option>
-                <option value="hogar">Hogar</option>
-                <option value="salud">Salud</option>
-                <option value="vida">Vida</option>
+            <select id="plan-selector" class="form-control w-50 mx-auto mt-3">
+                <option value="">Seleccione una opción</option>
+                <option value="agricolas">Seguros Agrícolas</option>
+                <option value="accidentes">Accidentes Personales</option>
+                <option value="vehiculos">Vehículos</option>
+                <option value="ciclistas">Seguro Integral Ciclistas</option>
+                <option value="comercio">Seguro Integral de Comercio</option>
+                <option value="ecomovilidad">Ecomovilidad</option>
+                <option value="foodtruck">Food Truck</option>
+                <option value="hogar">Seguro para el Hogar</option>
+                <option value="salud">Seguro de Salud</option>
             </select>
         </section>
 
-        <section id="planes" class="planes">
-            <div class="plan">
-                <h2>Auto</h2>
-                <p>Protección completa para tu vehículo.</p>
-                <button>Ver más</button>
+        <section id="planes" class="planes d-flex flex-wrap justify-content-around py-5">
+            <div class="plan card text-center p-3 m-3 shadow-sm" style="width: 18rem;">
+                <div class="card-body">
+                    <h2 class="card-title">Auto</h2>
+                    <p class="card-text">Protección completa para tu vehículo.</p>
+                    <button class="btn btn-primary">Ver más</button>
+                </div>
             </div>
-            <div class="plan">
-                <h2>Hogar</h2>
-                <p>Seguridad para tu hogar y familia.</p>
-                <button>Ver más</button>
+            <div class="plan card text-center p-3 m-3 shadow-sm" style="width: 18rem;">
+                <div class="card-body">
+                    <h2 class="card-title">Hogar</h2>
+                    <p class="card-text">Seguridad para tu hogar y familia.</p>
+                    <button class="btn btn-primary">Ver más</button>
+                </div>
             </div>
-            <div class="plan">
-                <h2>Salud</h2>
-                <p>Cuida tu salud con las mejores coberturas.</p>
-                <button>Ver más</button>
+            <div class="plan card text-center p-3 m-3 shadow-sm" style="width: 18rem;">
+                <div class="card-body">
+                    <h2 class="card-title">Salud</h2>
+                    <p class="card-text">Cuida tu salud con las mejores coberturas.</p>
+                    <button class="btn btn-primary">Ver más</button>
+                </div>
             </div>
-            <div class="plan">
-                <h2>Vida</h2>
-                <p>Asegura el futuro de tus seres queridos.</p>
-                <button>Ver más</button>
+            <div class="plan card text-center p-3 m-3 shadow-sm" style="width: 18rem;">
+                <div class="card-body">
+                    <h2 class="card-title">Vida</h2>
+                    <p class="card-text">Asegura el futuro de tus seres queridos.</p>
+                    <button class="btn btn-primary">Ver más</button>
+                </div>
             </div>
         </section>
     </main>
 
-    <footer>
+    <footer class="bg-dark text-white text-center py-3">
         <p>Contacto: info@productordeseguros.com | Tel: 1234-5678</p>
-        <ul>
-            <li><a href="#">Política de privacidad</a></li>
-            <li><a href="#">Términos y condiciones</a></li>
+        <ul class="list-inline">
+            <li class="list-inline-item"><a href="#" class="text-white">Política de privacidad</a></li>
+            <li class="list-inline-item"><a href="#" class="text-white">Términos y condiciones</a></li>
         </ul>
         <div class="social-media">
-            <a href="#"><img src="facebook-icon.png" alt="Facebook"></a>
-            <a href="#"><img src="twitter-icon.png" alt="Twitter"></a>
+            <a href="#"><img src="facebook-icon.png" alt="Facebook" class="mx-2" style="height: 30px;"></a>
+            <a href="#"><img src="twitter-icon.png" alt="Twitter" class="mx-2" style="height: 30px;"></a>
         </div>
     </footer>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
