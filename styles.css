@@ -115,3 +115,6 @@ footer ul li a {
     max-height: 80%;
     overflow-y: auto;
 }
+.swal2-popup.left-aligned .swal2-html-container {
+    text-align: left;
+}

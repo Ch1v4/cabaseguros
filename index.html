@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Productor de Seguros - Estudio Brassini</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
@@ -26,7 +28,7 @@
                         <a class="nav-link" href="https://www.fedpat.com.ar/nosotros/?location=Casilda%2C%20Santa%20Fe" target="_blank">Nosotros</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#numeros-importantes">Números Importantes</a>
+                        <a class="nav-link" href="#" onclick="mostrarNumerosImportantes()">Números Importantes</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#" onclick="mostrarInformacionContacto()">Contacto</a>
@@ -72,7 +74,7 @@
                 <img src="personas.png" alt="Personas" class="card-img-top">
                 <div class="card-body">
                     <h2 class="card-title">PERSONAS</h2>
-                    <p class="card-text">Cobertura de salud, accidentes personales, y más.</p>
+                    <p class="card-text">Coberturas de Accidentes Personales, Salud, Retiro y más.</p>
                     <button class="btn btn-primary" onclick="mostrarInformacionPersonas()">Ver más</button>
                 </div>
             </div>
@@ -465,7 +467,7 @@
         <div class="modal-content p-4">
             <span class="close" onclick="cerrarModal()">&times;</span>
             <h2>Contacto</h2>
-            <p>ic. Marcos Javier Brassini</p>
+            <p>Lic. Marcos Javier Brassini</p>
             <p>1º de Mayo 1513 - Casilda - Santa Fe</p>
             <p>Cel. (03464) 15528114</p>
             <p><a href="https://www.facebook.com/Estudio-Brassini-339645166678459/" target="_blank">facebook.com/estudiobrassini</a></p>
@@ -476,7 +478,7 @@
     </div>
 
     <footer class="bg-dark text-white text-center py-3">
-        <p>Cel. (03464) 15528114</p>
+        <p>Teléfono de contacto (03464) 15528114</p>
         <div class="social-media">
             <a href="https://www.facebook.com/Estudio-Brassini-339645166678459/" target="_blank"><img src="facebook-icon.png" alt="Facebook" class="mx-2" style="height: 30px;"></a>
             <a href="https://www.instagram.com/estudiobrassini/" target="_blank"><img src="instagram-icon.png" alt="Instagram" class="mx-2" style="height: 30px;"></a>
