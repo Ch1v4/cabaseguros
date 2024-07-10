@@ -250,6 +250,129 @@ function mostrarInformacionVehiculos() {
                 <li>Auto sustituto (por diez días ante robo total)</li>
                 <li>Daños parciales a consecuencia de la caída de Granizo de hasta el 30 % de la suma asegurada sin la inclusión de la clausula de ajuste automático. Este beneficio NO TENDRA LIMITES si la reparación fuera realizada por FEDERACION PATRONAL SEGUROS S.A.U. y/o prestador que esta aseguradora designe.</li>
             </ul>
+            <h3>C FULL - TERCEROS COMPLETO</h3>
+            <ul>
+                <li>Responsabilidad Civil.</li>
+                <li>Pérdida total y parcial por Robo.</li>
+                <li>Pérdida total y parcial por Incendio.</li>
+                <li>Destrucción total por Accidente.</li>
+                <li>Grabado de Cristales.</li>
+                <li>Accidentes Personales.</li>
+                <li>Asistencia Penal.</li>
+                <li>Bonificación por Buen Resultado.</li>
+                <li>Servicio de Gestoría.</li>
+                <li>Descuentos por Alarma y sistemas de rastreo.</li>
+                <li>Reposición de O Km por robo total (según condiciones contractuales).</li>
+                <li>Rotura de Cristales, Cerraduras y Antena. Este beneficio NO TENDRA LIMITES si la reparación fuera realizada por FEDERACION PATRONAL SEGUROS S.A. y/o prestador que esta aseguradora designe.</li>
+                <li>Cobertura de Granizo.</li>
+                <li>Daños parciales a consecuencia de la caída de Granizo de hasta el 30 % de la suma asegurada sin la inclusión de la clausula de ajuste automatico con un limite máximo de $ 70.000 por evento . Este beneficio NO TENDRA LIMITES si la reparación fuera realizada por FEDERACION PATRONAL SEGUROS S.A. y/o prestador que esta aseguradora designe.</li>
+            </ul>
+            <h3>COBERTURA TERCEROS COMPLETO</h3>
+            <ul>
+                <li>Responsabilidad Civil.</li>
+                <li>Pérdida total y parcial por Robo.</li>
+                <li>Pérdida total y parcial por Incendio.</li>
+                <li>Destrucción total por Accidente.</li>
+                <li>Grabado de Cristales.</li>
+                <li>Accidentes Personales.</li>
+                <li>Asistencia Penal.</li>
+                <li>Bonificación por Buen Resultado.</li>
+            </ul>
+            <h3>COBERTURA TERCEROS BASE</h3>
+            <ul>
+                <li>Responsabilidad Civil.</li>
+                <li>Pérdida total por Robo.</li>
+                <li>Pérdida total por Incendio.</li>
+                <li>Destrucción total por Accidente.</li>
+                <li>Accidentes Personales.</li>
+                <li>Asistencia Penal.</li>
+                <li>Bonificación por Buen Resultado.</li>
+            </ul>
+            <h3>RESPONSABILIDAD CIVIL</h3>
+            <ul>
+                <li>Responsabilidad civil voluntaria según SSN</li>
+                <li>Accidentes Personales</li>
+                <li>Asistencia Penal</li>
+                <li>Bonificación por Buen Resultado</li>
+            </ul>
+            <h3>SEGURO AUTOS CLASICOS</h3>
+            <p>Un producto desarrollado para coleccionistas y restauradores de autos clásicos, antiguos o fanáticos de los Hot Rod. Pensamos en las mejores coberturas para este interesante hobby.</p>
+            <h3>RIESGOS CUBIERTOS</h3>
+            <ul>
+                <li>Responsabilidad Civil hacia terceros transportados y no transportados hasta un límite de responsabilidad civil voluntaria según SSN.</li>
+                <li>Robo total.</li>
+                <li>Incendio total.</li>
+                <li>Destrucción Total.</li>
+                <li>Servicio de grúa hasta 150 km lineales o 300 km totales (ida y vuelta).</li>
+            </ul>
+            <h3>SEGURO MOTOS</h3>
+            <p>Ahora, con la cobertura Integral para motovehículos, estas mejor protegido. Podes contar con un seguro que cubre todos los riesgos a los cuales estas expuesto como motociclista.</p>
+            <h3>SEGURO INTEGRAL MOTOVEHICULOS</h3>
+            <ul>
+                <li>Responsabilidad Civil hacia terceros transportados y no transportados y daños a cosas de terceros.</li>
+                <li>Robo Total.</li>
+                <li>Incendio Total.</li>
+                <li>Destrucción Total.</li>
+                <li>Extensión de coberturas a países limítrofes.</li>
+                <li>Servicio de Grúa.</li>
+                <li>Seguro de Accidentes Personales, que protege tu integridad física y el patrimonio de tu grupo familiar</li>
+                <li>Seguro de Salud que ampara las posibles caídas y lesiones que puedan provocar la fractura de huesos o la necesidad de utilizar órtesis o prótesis.</li>
+            </ul>
+            <h3>SEGURO MONOPATÍN</h3>
+            <p>Vos cuidas el planeta, nosotros te cuidamos a vos y a tu monopatín. Ecomovilidad es moverse sin dañar el medio ambiente. Movete tranquilo con una cobertura integral, combinando seguros responsabilidad civil, robo, accidentes personales y salud.</p>
+            <h3>COBERTURAS PRINCIPALES:</h3>
+            <ul>
+                <li>BICICLETAS ALTA-MEDIA GAMA</li>
+                <li>BICICLETAS ELECTRICAS</li>
+                <li>MONOPATINES ELECTRICOS</li>
+                <li>MOTOS ELECTRICAS QUE NO PUEDEN PATENTARSE</li>
+                <li>PATINETAS Y SIMILARES</li>
+                <li>PAR DE ESQUIES-PAR DE PALOS</li>
+                <li>TABLA DE SNOWBOARD</li>
+                <li>PAR DE ROLLERS</li>
+                <li>TABLA DE SURF</li>
+            </ul>
+            <h3>COBERTURAS PRINCIPALES:</h3>
+            <ul>
+                <li>Responsabilidad Civil por hechos imputables al Asegurado a consecuencia del uso de vehículos ecológicos, con exclusión de todo tipo de vehículo motorizado. Opcional Grupo Familiar (cónyuge e hijos). Ámbito de Cobertura: República Argentina. SIN FRANQUICIA.</li>
+                <li>Salud Ecomovilidad: Ofrece tres alternativas de planes de coberturas indemnizatorias e independientes y complementarios entre sí. Los planes son: Salud Fracturas, Salud Intervenciones y Salud Prótesis.</li>
+                <li>Accidentes Personales Ecomovilidad: Cuenta con tres opciones de suma asegurada. Incluye coberturas de muerte accidental, invalidez y asistencia médico farmacéutica.</li>
+                <li>Robo Total</li>
+            </ul>
+            <h3>SEGURO BICICLETAS</h3>
+            <p>Disfrutá al máximo tu pasión por el ciclismo con tranquilidad: descubrí nuestro Seguro Integral para Ciclistas.</p>
+            <h3>COBERTURAS PRINCIPALES</h3>
+            <ul>
+                <li>Cobertura de robo en Argentina y Países Limítrofes: Cubre el robo total o parcial de la bicicleta en todo el territorio nacional y países limítrofes (con posibilidad de cubrir el mundo entero)</li>
+                <li>Todo Riesgo con Franquicia: Opcionalmente, es posible ampliar la cobertura a daños propios por accidente, incendio o rayo.</li>
+                <li>Accesorios fijos: Protegé también los accesorios fijos de la bicicleta como el ciclocomputador, el GPS o el velocímetro.</li>
+            </ul>
+            <h3>Complementá tu seguro con una cobertura para vos:</h3>
+            <ul>
+                <li>Accidentes Personales: Brinda asistencia médica y farmacéutica en caso de accidentes, con tres opciones de suma asegurada para que elijas la que mejor se ajusta a tus necesidades.</li>
+                <li>Salud: Cobertura indemnizatoria para fracturas como consecuencia de un accidente.</li>
+                <li>Responsabilidad Civil: Te protege ante daños a terceros ocasionados por el uso de tu bicicleta, sin franquicia y en toda Argentina.</li>
+            </ul>
+            <h3>FOOD TRUCK</h3>
+            <p>Ponemos a tu disposición una cobertura integral para aquellos negocios dedicados a la gastronomía en camiones o trailers adaptados como locales comerciales para la venta de comidas, bebidas, helados, etc. Desarrollamos un conjunto de coberturas pensadas específicamente para cubrir todas tus necesidades.</p>
+            <h3>COBERTURA AUTOMOTOR</h3>
+            <ul>
+                <li>Responsabilidad Civil para los vehículos mientras circulan, con diferentes valores dependiendo el tipo de vehículo.</li>
+                <li>Cobertura de Robo e incendio de la unidad y de sus equipamiento.</li>
+            </ul>
+            <h3>COBERTURA INTEGRAL DE COMERCIO</h3>
+            <ul>
+                <li>Incendio de Contenido general</li>
+                <li>Robo de Contenido General</li>
+                <li>Responsabilidad Civil Comprensiva</li>
+                <li>Valores en Caja</li>
+                <li>Cristales</li>
+                <li>Equipos electrónicos – Todo Riesgo</li>
+            </ul>
+            <h3>COBERTURA DE RESPONSABILIDAD CIVIL</h3>
+            <ul>
+                <li>Responsabilidad Civil emergente del suministro de productos alimenticios y/o bebidas. Se cubre los daños que dichos productos pudieran causar a sus consumidores o usuarios.</li>
+            </ul>
         `,
         customClass: {
             popup: 'left-aligned'
